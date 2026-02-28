@@ -49,6 +49,7 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="25" title="Supabase" />
 </p>
 ### 🏆 Proyectos Destacados
+---
 *(Menciona 2 o 3 proyectos de los que te sientas más orgulloso)*
 
 * **Quizzy (git@github.com:martinforger/quizzy-frontend.git)**: Clon de la aplicacion Kahoot. Construido con Flutter, TypeScript.
