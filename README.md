@@ -12,8 +12,6 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
 
 ### 🛠️ Mi Stack Tecnológico
 
-### 🛠️ Mi Stack Tecnológico
-
 **Diseño & Frontend Moderno**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25" title="Figma (UI/UX)" />&nbsp;
@@ -38,7 +36,7 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="25" title="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="25" title="Laravel" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/odoo/odoo-original.svg" width="25" title="Odoo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/odoo/odoo-original.svg" width="25" title="Odoo ERP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="25" title="C#" />
 </p>
 
@@ -50,8 +48,6 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="25" title="MongoDB" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="25" title="Supabase" />
 </p>
-
-
 ### 🏆 Proyectos Destacados
 *(Menciona 2 o 3 proyectos de los que te sientas más orgulloso)*
 
