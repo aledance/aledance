@@ -10,9 +10,9 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
 - 🌱 Aprendiendo profundamente sobre:  Arquitectura en la nube con AWS, React, Python para ciencia de datos, crear modulos en Odoo.
 - 📫 Cómo contactarme: aferreira.17@est.ucab.edu.ve
 
-### 🛠️ Tecnologías y Herramientas
-
-<i class="devicon-flutter-plain colored"></i>, 
+### 🛠️ Tecnologías y Herramienta
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+          
 
 
 ### 🏆 Proyectos Destacados
