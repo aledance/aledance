@@ -51,8 +51,9 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
 ### 🏆 Proyectos Destacados
 *(Menciona 2 o 3 proyectos de los que te sientas más orgulloso)*
 
-* **[Nombre de tu Proyecto 1](link-al-repositorio)**: Breve descripción de 1 línea sobre qué problema resuelve. Construido con [Tecnología 1, Tecnología 2].
-* **[Nombre de tu Proyecto 2](link-al-repositorio)**: Breve descripción de 1 línea. Construido con [Tecnología 1, Tecnología 2].
+* **Quizzy (git@github.com:martinforger/quizzy-frontend.git)**: Clon de la aplicacion Kahoot. Construido con Flutter, TypeScript.
+* **Coliven(git@github.com:aledance/Coliven.git)**: Pagina web empresarial de una constructora . Construido con React, NestJS.
+* **United(git@github.com:aledance/PaginaSuperHeroesNi-os.git)**: Pagina web de una fundacion de niños en Estados Unidos . Construido con React, NestJS.
 
 ---
 <div align="center">
