@@ -10,7 +10,8 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
 - 🌱 Aprendiendo profundamente sobre:  Arquitectura en la nube con AWS, React, Python para ciencia de datos, crear modulos en Odoo.
 - 📫 Cómo contactarme: aferreira.17@est.ucab.edu.ve
 
-### 🛠️ Tecnologías y Herramienta
+### 🛠️ Mi Stack Tecnológico
+
 ### 🛠️ Mi Stack Tecnológico
 
 **Diseño & Frontend Moderno**
