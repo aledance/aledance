@@ -11,7 +11,14 @@ Actualmente estoy terminando mi carrera de Ingeniería Informática y busco mi p
 - 📫 Cómo contactarme: aferreira.17@est.ucab.edu.ve
 
 ### 🛠️ Tecnologías y Herramienta
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="25" title="Flutter" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25" title="Figma (UI/UX)" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25" title="Power BI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="25" title="Spring Boot" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="25" title="Docker / Microservicios" />
+</p>
           
 
 
